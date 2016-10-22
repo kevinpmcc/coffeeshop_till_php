@@ -1,0 +1,28 @@
+body {
+  font-family: Monaco;
+  font-size: 12px;
+}
+
+.container {
+  width: 200px;
+  background-color: #FCFCFA;
+}
+
+.right-column {
+  float:right;
+  padding-right: 10px;
+}
+
+.item-name {
+  padding-left: 10px;
+}
+
+.footer {
+  margin-top: 5px;
+  font-family: cursive;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
